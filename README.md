@@ -23,7 +23,6 @@ II. Explanation (in English - Orgininal):
 
 Use the language translation tool, I'm lazy :3.
 
-
 # How to use :
 
 
