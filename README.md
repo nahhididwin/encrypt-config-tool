@@ -21,7 +21,10 @@ Vậy nên Server A sử dụng enc-cf-tl, từ đó chuyển giao được file
 
 II. Explanation (in English - Orgininal):
 
+Use the language translation tool, I'm lazy :3.
 
+
+# How to use :
 
 
 
